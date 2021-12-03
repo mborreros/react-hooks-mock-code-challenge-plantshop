@@ -41,6 +41,84 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "fern",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "25",
+      "id": 8
+    },
+    {
+      "name": "fern",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "25",
+      "id": 9
+    },
+    {
+      "name": "pepe",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "99999",
+      "id": 10
+    },
+    {
+      "name": "pepe",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "78900",
+      "id": 11
+    },
+    {
+      "name": "pepe",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "45678",
+      "id": 12
+    },
+    {
+      "name": "pepe",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "123",
+      "id": 13
+    },
+    {
+      "name": "popsicle",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "67",
+      "id": 14
+    },
+    {
+      "name": "corn",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "832",
+      "id": 15
+    },
+    {
+      "name": "maya borrero",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "4567",
+      "id": 16
+    },
+    {
+      "name": "pepe",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "4",
+      "id": 17
+    },
+    {
+      "name": "maya borrero",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "6",
+      "id": 18
+    },
+    {
+      "name": "pepe",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "788",
+      "id": 19
+    },
+    {
+      "name": "corn",
+      "image": "https://static01.nyt.com/images/2016/09/28/us/28xp-pepefrog/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp",
+      "price": "8",
+      "id": 20
     }
   ]
 }

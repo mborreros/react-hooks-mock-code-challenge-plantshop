@@ -1,6 +1,14 @@
 import React from "react";
 
-function Search() {
+// I can search for plants by their name and see a filtered list of plants.
+
+function Search({ onSearch }) {
+
+  function handleSearchInput(e) {
+    let searchBy = (e.target.value)
+    onSearch(searchBy)
+  }
+
   return (
     <div className="searchbar">
       <label htmlFor="search">Search Plants:</label>
@@ -8,7 +16,7 @@ function Search() {
         type="text"
         id="search"
         placeholder="Type a name to search..."
-        onChange={(e) => console.log("Searching...")}
+        onChange={handleSearchInput}
       />
     </div>
   );
